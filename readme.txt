@@ -1,0 +1,1 @@
+JavaScript Lesson 3. Connecting JavaScript to HTML
